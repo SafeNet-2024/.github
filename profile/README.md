@@ -1,9 +1,9 @@
-# 🌿 Groshare: 신선한 우리 동네 식재료, 편리하게 거래하세요 🌿
-![Groshare 소개](https://github.com/user-attachments/assets/00840529-287a-4b06-8b40-a7fea189c487)
+# 🌿 GroShare: 신선한 우리 동네 식재료, 편리하게 거래하세요 🌿
+![GroShare 소개](https://github.com/user-attachments/assets/00840529-287a-4b06-8b40-a7fea189c487)
 
 > 시스템종합설계 과목 내 실습 프로젝트 </br>
 > 기간: 24.3.15 ~ 24.6.14 </br>
-> 성과: 해당 프로젝트로 시스템종합설계 과목에서 A+ 받음 </br>
+> 성과: 해당 프로젝트로 시스템종합설계 과목에서 A+ 달성 </br>
 
 </br>
 
